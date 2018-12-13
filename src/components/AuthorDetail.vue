@@ -14,11 +14,13 @@ export default {
   created () {
   }
 },
-  methods () {
+  methods: {
+    addPeople () {
 
+    }
 }
 </script>
 
 <style lang="css" scoped>
-  
+
 </style>
