@@ -1,0 +1,9 @@
+{
+  "goods": [
+    {"price": "10", "title": "Dove", "img": ""},
+    {"price": "20", "title": "Lindt", "img": ""},
+    {"price": "30", "title": "Ferrero", "img": ""},
+    {"price": "40", "title": "Guylian", "img": ""},
+    {"price": "50", "title": "M&M", "img": ""}
+  ]
+}
