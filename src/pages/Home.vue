@@ -1,5 +1,9 @@
 <template>
-  <div></div>
+  <div>
+    <TopNavigator></TopNavigator>
+    <LeftNavigator></LeftNavigator>
+    <MainFrame></MainFrame>
+  </div>
 </template>
 
 <script>
@@ -7,6 +11,5 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style lang="css" scoped>
 </style>
