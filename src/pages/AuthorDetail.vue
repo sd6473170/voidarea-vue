@@ -12,13 +12,14 @@ export default {
     }
   },
   created () {
-  }
-},
+  },
   methods: {
     addPeople () {
 
     }
+  }
 }
+
 </script>
 
 <style lang="css" scoped>
